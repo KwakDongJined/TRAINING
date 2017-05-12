@@ -1,1 +1,1 @@
-Course : [Pierian](http://www.pieriandata.com/)
+Course : [Pierian Data](http://www.pieriandata.com/)
