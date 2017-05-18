@@ -33,3 +33,5 @@ We will use a data frame with 777 observations on the following 18 variables.
 * perc.alumni Pct. alumni who donate
 * Expend Instructional expenditure per student
 * Grad.Rate Graduation rate
+
+You need a file (College_Data.txt)
